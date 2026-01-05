@@ -543,7 +543,6 @@
     {"id":{"name":"mask_forkhitbox","path":"sprites/mask_forkhitbox/mask_forkhitbox.yy",},},
     {"id":{"name":"mask_parry","path":"sprites/mask_parry/mask_parry.yy",},},
     {"id":{"name":"mask_pepperman","path":"sprites/mask_pepperman/mask_pepperman.yy",},},
-    {"id":{"name":"mask_player_1","path":"sprites/mask_player_1/mask_player_1.yy",},},
     {"id":{"name":"mask_player_small","path":"sprites/mask_player_small/mask_player_small.yy",},},
     {"id":{"name":"mask_player","path":"sprites/mask_player/mask_player.yy",},},
     {"id":{"name":"pal_combo","path":"sprites/pal_combo/pal_combo.yy",},},

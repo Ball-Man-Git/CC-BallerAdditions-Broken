@@ -479,7 +479,6 @@
     {"name":"mask_collect","order":5,"path":"sprites/mask_collect/mask_collect.yy",},
     {"name":"mask_parry","order":2,"path":"sprites/mask_parry/mask_parry.yy",},
     {"name":"mask_pepperman","order":3,"path":"sprites/mask_pepperman/mask_pepperman.yy",},
-    {"name":"mask_player_1","order":2,"path":"sprites/mask_player_1/mask_player_1.yy",},
     {"name":"mask_player_small","order":1,"path":"sprites/mask_player_small/mask_player_small.yy",},
     {"name":"pal_combo","order":14,"path":"sprites/pal_combo/pal_combo.yy",},
     {"name":"pal_peppino","order":1,"path":"sprites/pal_peppino/pal_peppino.yy",},
