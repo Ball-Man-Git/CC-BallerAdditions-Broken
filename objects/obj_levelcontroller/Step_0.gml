@@ -17,7 +17,7 @@ if (global.combo.count != prev_combo_count)
 	}
 }
 
-combo_score = round(((global.combo.count ^ 2) * 0.25) + (10 * global.combo.count))
+combo_score = ((global.combo.count ^ 2) * 0.25) + (10 * global.combo.count)
 
 if global.combo.timer <= 0
 {
@@ -40,3 +40,20 @@ if global.combo.timer <= 0
 global.savestring = $"saves/saveData{global.savefile}.ini"
 
 //move all of this combo stuff to its own object
+
+if global.in_level
+{
+	var s = 0.016666666666666666
+	if instance_exists(obj_pause) && !obj_pause.pause
+	{
+    if room != rank_room || room != rank_room
+    {
+        global.level_seconds += s
+        if ((global.level_seconds >= 60))
+        {
+            global.level_seconds = 0
+            global.level_minutes++
+        }
+    }
+}
+}

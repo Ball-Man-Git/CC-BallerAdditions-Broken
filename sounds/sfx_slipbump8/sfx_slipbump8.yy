@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sfx_slipbump8",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":2,
+  "conversionMode":0,
+  "duration":1.177347,
+  "name":"sfx_slipbump8",
+  "parent":{
+    "name":"Slip SFX",
+    "path":"folders/Sounds/SFX/Slip SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"sfx_slipbump8.wav",
+  "type":1,
+  "volume":1.0,
+}
